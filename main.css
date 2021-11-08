@@ -1,0 +1,52 @@
+.banner {
+    background-image: url(./image/pattern.webp)
+}
+.banner h1 {
+    color: khaki;
+    font-size: 100px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.title {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.meduimGreen{
+    background-color: mediumspringgreen;
+}
+.lightcoral{
+    background-color: lightcoral;
+}
+.skyblue{
+    background-color: skyblue;
+}
+span {
+    font-family: Helvetica, sans-serif;
+    color: blue ;
+    font-weight: bold;
+}
+.firstSec p{
+    font-size: 25px;
+}
+
+.firstSec figure{
+    padding-top: 1%;
+    margin-left: 0px ;
+}
+.secondSec p{
+    font-size: 25px;
+}
+.secondSec figure{
+    margin-left: 0px;
+    padding-top: 1%;
+}
+.thirdSec p{
+    font-size: 25px;
+}
+.thirdSec figure{
+    margin-left: 0px;
+    padding-top: 1%;
+}
